@@ -1,0 +1,23 @@
+h{
+    font-size: larger;
+}
+p{
+    text-indent: 2em;
+    font-size: large;
+}
+body{
+    background-color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    width: 55%;
+    border: rgb(255, 0, 0);
+    border-style: double;
+    background-color:papayawhip;
+    margin: auto;
+    margin-top: 50px;
+
+}
+button{
+    background-color: white;
+}
